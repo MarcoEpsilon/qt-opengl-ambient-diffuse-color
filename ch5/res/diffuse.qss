@@ -1,0 +1,26 @@
+QSlider::groove:horizontal {
+    height:6px;
+    background-color:rgba(127,255,170,255);
+    margin:0px;
+    padding:0px;
+}
+QSlider::handle:horizontal {
+    height:16px;
+    width:16px;
+    border-radius:8px;
+    margin:-5px 0px;
+    padding:0px;
+    background-color:rgba(255,20,127,255);
+}
+#m_rSlider > QSlider::sub-page:horizontal {
+    background-color:red;
+}
+#m_gSlider > QSlider::sub-page:horizontal {
+    background-color:green;
+}
+#m_bSlider > QSlider::sub-page:horizontal {
+    background-color:blue;
+}
+#m_indensitySlider > QSlider::sub-page:horizontal {
+    background: qlineargradient(x1:0,y1:0,x2:1,y2:0,stop: 0 red,stop: 0.5 green,stop: 1 blue);
+}

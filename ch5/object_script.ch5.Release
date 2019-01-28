@@ -1,0 +1,14 @@
+release/main.o
+release/towerwidget.o
+release/utils.o
+release/mainwindow.o
+release/marcoslider.o
+release/ambientwidget.o
+release/diffusewidget.o
+release/directionwidget.o
+release/moc_towerwidget.o
+release/moc_mainwindow.o
+release/moc_marcoslider.o
+release/moc_ambientwidget.o
+release/moc_diffusewidget.o
+release/moc_directionwidget.o

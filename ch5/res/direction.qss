@@ -1,0 +1,6 @@
+QSpinBox::up-button {
+    border-image:url(../res/img/abovearrow.png);
+}
+QSpinBox::down-button {
+    border-image:url(../res/img/downarrow.png);
+}

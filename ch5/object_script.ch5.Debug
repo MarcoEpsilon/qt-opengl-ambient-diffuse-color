@@ -1,0 +1,14 @@
+debug/main.o
+debug/towerwidget.o
+debug/utils.o
+debug/mainwindow.o
+debug/marcoslider.o
+debug/ambientwidget.o
+debug/diffusewidget.o
+debug/directionwidget.o
+debug/moc_towerwidget.o
+debug/moc_mainwindow.o
+debug/moc_marcoslider.o
+debug/moc_ambientwidget.o
+debug/moc_diffusewidget.o
+debug/moc_directionwidget.o
